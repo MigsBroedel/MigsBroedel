@@ -51,8 +51,6 @@ Self-taught since 14, now 18, based in Sorocaba, Brazil. Applying to Computer Sc
   <img src="assets/icons/py.svg" width="44" height="44" alt="Python" title="Python">
   <img src="assets/icons/ts.svg" width="44" height="44" alt="TypeScript" title="TypeScript">
   <img src="assets/icons/js.svg" width="44" height="44" alt="JavaScript" title="JavaScript">
-  <img src="assets/icons/go.svg" width="44" height="44" alt="Go" title="Go">
-  <img src="assets/icons/dart.svg" width="44" height="44" alt="Dart" title="Dart">
 </p>
 
 <p>
@@ -77,7 +75,6 @@ Self-taught since 14, now 18, based in Sorocaba, Brazil. Applying to Computer Sc
   <img src="assets/icons/react.svg" width="44" height="44" alt="React" title="React">
   <img src="assets/icons/nextjs.svg" width="44" height="44" alt="Next.js" title="Next.js">
   <img src="assets/icons/expo.svg" width="44" height="44" alt="React Native / Expo" title="React Native / Expo">
-  <img src="assets/icons/flutter.svg" width="44" height="44" alt="Flutter" title="Flutter">
 </p>
 
 <p>
